@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Welcome to Jamaica</title>
-<link href="images/log4.png" rel="icon">
+<link href="images/JAMAICA.jpeg" rel="icon">
 </head>
 </head>
 <body>
